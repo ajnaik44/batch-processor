@@ -1,0 +1,11 @@
+com\finago\interview\fileProcessor\XMLValidator.class
+com\finago\interview\task\MonitorInFolder.class
+com\finago\interview\bean\ReceiverBean.class
+com\finago\interview\fileProcessor\FileProcessor.class
+com\finago\interview\fileProcessor\FileUtility.class
+com\finago\interview\task\BatchProcessor.class
+com\finago\interview\task\Constants.class
+com\finago\interview\fileProcessor\XMLWriterDOM.class
+com\finago\interview\fileProcessor\XMLReader.class
+com\finago\interview\task\MonitorInFolder$1.class
+com\finago\interview\fileProcessor\XMLValidator$ValidatorErrorHandler.class
